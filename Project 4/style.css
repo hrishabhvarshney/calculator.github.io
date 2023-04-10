@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&display=swap');
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto' , sans-serif;
+    font-family: 'Alkatra', cursive;
+}
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+}
+.row{
+    margin: 8px 0;
+}
+.row input{
+    width: 232px;
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
